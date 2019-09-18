@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003451609028",
+    "firebase_url": "https://homesweethome-fc94e.firebaseio.com",
+    "project_id": "homesweethome-fc94e",
+    "storage_bucket": "homesweethome-fc94e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003451609028:android:a561d9cec25e0d3927fe91",
+        "android_client_info": {
+          "package_name": "br.eduardo.automacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003451609028-vdjluuinkfjug9ei5a67t4foejnd2edr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.eduardo.automacao",
+            "certificate_hash": "8e34472466c7f1ae0fb5085b99ee830a023c2597"
+          }
+        },
+        {
+          "client_id": "1003451609028-i4euq4hvp0efl1fgavpvf7tg7lrolktl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDafH4i5YaEFuLuEf2vf4AH2zWMJt9mKIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003451609028-i4euq4hvp0efl1fgavpvf7tg7lrolktl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

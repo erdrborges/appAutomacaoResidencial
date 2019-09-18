@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Automação Home Sweet Home</string>
+<!--    <string name="tab_text_1">Tab 1</string>-->
+<!--    <string name="tab_text_2">Tab 2</string>-->
+
+    <string name="aba_1">Quartos</string>
+    <string name="aba_2">Corredor</string>
+    <string name="aba_3">Living</string>
+    <string name="aba_4">Cozinha</string>
+    <string name="aba_5">Garagem</string>
+    <string name="aba_6">Varanda</string>
+    <string name="tv_quarto1_suite">Quarto 1 (Suíte):</string>
+    <string name="tv_ar_condicionado">Ar Condicionado</string>
+    <string name="tv_lamp_quarto">Lâmpada Quarto</string>
+    <string name="tv_lamp_closet">Lampada Closed</string>
+    <string name="tv_lamp_wc">Lâmpada WC</string>
+    <string name="tv_bed_2">Quarto 2:</string>
+    <string name="tv_quarto_3">Quarto 3:</string>
+    <string name="tv_corredor">Corredor:</string>
+    <string name="tv_lamp_bath_cor">Lâmpada Banheiro</string>
+    <string name="tv_lamp_corredor">Lâmpada Corredor</string>
+    <string name="tv_cozinha">Cozinha e Lavanderia:</string>
+    <string name="tv_lamp_cozinha">Lâmpada Cozinha</string>
+    <string name="tv_lamp_laundry">Lâmpada Lavanderia</string>
+    <string name="tv_garage">Garagem:</string>
+    <string name="tv_lamp_garage">Lâmpada Garagem</string>
+    <string name="tv_gate_garage">Portão Garagem</string>
+    <string name="tv_living">Living:</string>
+    <string name="tv_lamp_hall">Lâmpada Entrada</string>
+    <string name="tv_lamp_dining">Lâmpada Sala de Jantar</string>
+    <string name="tv_lamp_living">Lâmpada Sala de Estar</string>
+    <string name="tv_lamp_balc_hall">Lâmpada Hall de Entrada</string>
+    <string name="tv_varanda">Varanda:</string>
+    <string name="tv_lamp_balc_living">Lâmpada Janela da Sala</string>
+    <string name="tv_desenvolvedor">Desenvolvido por Eduardo Borges.</string>
+    <string name="tv_lamp_balc_laundry">Lâmpada Saída Lavanderia</string>
+
+
+</resources>
